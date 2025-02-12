@@ -93,4 +93,6 @@
 ## ⭐ My Projects
 
 ### TO BE UPDATED: 
-personal projects aren't uploaded on here, will add something significant whenever
+personal projects aren't uploaded on here, will add something significant whenever, 
+this github profile is purely created out of personal boredom, there isn't anything that is public that i can put on here that's of any significance.
+new things will be added when I have more free time.
