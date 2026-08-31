@@ -85,6 +85,15 @@ I build web applications and break them. Currently hunting bugs in DeFi protocol
 
 <br/>
 
+## disclosures
+
+- [snapshot-webhook #302](https://github.com/snapshot-labs/snapshot-webhook/pull/302): webhook secret was derived from a `parseInt`-truncated salt, so any non-numeric salt collapsed to a short, guessable value. reported, fixed, merged.
+- [suzaku-core #250](https://github.com/suzaku-network/suzaku-core/issues/250): validators could inflate stake mid-epoch before accounting settled. critical, fixed upstream.
+
+more at [lich.cx](https://lich.cx)
+
+<br/>
+
 <div align="center">
 
 > *<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&width=600&height=30&lines=The+unseen+blade+is+the+deadliest.+We+provide+the+vision+to+see+it+coming.;In+security%2C+paranoia+is+just+good+planning.;Break+it+before+someone+else+does." alt="Quote" />*
