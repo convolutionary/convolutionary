@@ -90,8 +90,6 @@ I build web applications and break them. Currently hunting bugs in DeFi protocol
 - [snapshot-webhook #302](https://github.com/snapshot-labs/snapshot-webhook/pull/302): webhook secret was derived from a `parseInt`-truncated salt, so any non-numeric salt collapsed to a short, guessable value. reported, fixed, merged.
 - [suzaku-core #250](https://github.com/suzaku-network/suzaku-core/issues/250): validators could inflate stake mid-epoch before accounting settled. critical, fixed upstream.
 
-more at [lich.cx](https://lich.cx)
-
 <br/>
 
 <div align="center">
