@@ -6,7 +6,7 @@
 <!-- Name + Title -->
 # convolutionary
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=45&lines=full+stack+developer;security+researcher;smart+contract+auditor;building+things+that+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=45&lines=full+stack+developer;frontend%2C+backend%2C+infra;typescript+%C2%B7+go+%C2%B7+rust;building+things+that+work" alt="Typing SVG" />
 
 <br/>
 
@@ -27,10 +27,10 @@
 ## about
 
 ```
-full stack development → security research → smart contract auditing
+frontend → backend → database → deploy
 ```
 
-I build web applications and break them. Currently hunting bugs in DeFi protocols and L2 infrastructure.
+I build web apps end to end: the interface, the API, the database and the server it runs on. I came up through security, so what I ship is built to hold up.
 
 <br/>
 
@@ -47,7 +47,6 @@ I build web applications and break them. Currently hunting bugs in DeFi protocol
 ![Python](https://img.shields.io/badge/python-161b22?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-161b22?style=for-the-badge&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/kotlin-161b22?style=for-the-badge&logo=kotlin)
-![Solidity](https://img.shields.io/badge/solidity-161b22?style=for-the-badge&logo=solidity)
 ![Bash](https://img.shields.io/badge/bash-161b22?style=for-the-badge&logo=gnubash)
 
 **frameworks**
@@ -62,7 +61,7 @@ I build web applications and break them. Currently hunting bugs in DeFi protocol
 ![GraphQL](https://img.shields.io/badge/graphql-161b22?style=for-the-badge&logo=graphql)
 ![Electron](https://img.shields.io/badge/electron-161b22?style=for-the-badge&logo=electron)
 
-**devops & security**
+**infra & data**
 
 ![Docker](https://img.shields.io/badge/docker-161b22?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/linux-161b22?style=for-the-badge&logo=linux)
@@ -70,8 +69,6 @@ I build web applications and break them. Currently hunting bugs in DeFi protocol
 ![PostgreSQL](https://img.shields.io/badge/postgresql-161b22?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/redis-161b22?style=for-the-badge&logo=redis)
 ![MongoDB](https://img.shields.io/badge/mongodb-161b22?style=for-the-badge&logo=mongodb)
-![Foundry](https://img.shields.io/badge/foundry-161b22?style=for-the-badge&logo=ethereum)
-![Burp](https://img.shields.io/badge/burp_suite-161b22?style=for-the-badge&logo=portswigger)
 
 </div>
 
@@ -79,13 +76,13 @@ I build web applications and break them. Currently hunting bugs in DeFi protocol
 
 ## currently
 
-- auditing smart contracts across evm, starknet, solana
-- building security tooling
-- hunting on immunefi, hackenproof
+- building full stack apps with typescript, react and node
+- writing backend services in go and rust
+- self-hosting my own stuff on linux
 
 <br/>
 
-## disclosures
+## bug reports
 
 - [snapshot-webhook #302](https://github.com/snapshot-labs/snapshot-webhook/pull/302): webhook secret was derived from a `parseInt`-truncated salt, so any non-numeric salt collapsed to a short, guessable value. reported, fixed, merged.
 - [suzaku-core #250](https://github.com/suzaku-network/suzaku-core/issues/250): validators could inflate stake mid-epoch before accounting settled. critical, fixed upstream.
@@ -94,7 +91,7 @@ I build web applications and break them. Currently hunting bugs in DeFi protocol
 
 <div align="center">
 
-> *<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&width=600&height=30&lines=The+unseen+blade+is+the+deadliest.+We+provide+the+vision+to+see+it+coming.;In+security%2C+paranoia+is+just+good+planning.;Break+it+before+someone+else+does." alt="Quote" />*
+> *<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=4000&pause=2000&color=8b949e&center=true&vCenter=true&width=600&height=30&lines=Make+it+work%2C+make+it+right%2C+make+it+fast.;Ship+it%2C+then+make+it+better.;If+it%27s+not+deployed%2C+it+doesn%27t+exist." alt="Quote" />*
 
 </div>
 
